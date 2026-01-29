@@ -1,13 +1,23 @@
-A simple website built using HTML, CSS, and JavaScript.
+# 🍽️ Recipe Website
 
-## Features
-- Logo in browser tab (favicon)
-- Responsive layout (coming soon)
+A simple recipe website built using **HTML, CSS, and JavaScript**.
+
+## What I Learned
+- JavaScript DOM manipulation and event handling
+- Fetching data from a public API using `fetch()`
+- Working with JSON responses
+- Dynamically updating UI based on API data
+- Understanding API request limits
+- Using AI tools to quickly decide colors and improve UI
 
 ## Tech Stack
 - HTML
 - CSS
 - JavaScript
+- Public Recipe API
 
-## How to Run
-Just open `index.html` in your browser.
+## Note
+The recipe API has a **daily request limit**, so data fetching may not work temporarily.
+
+## Run Locally
+Open `index.html` in your browser.
