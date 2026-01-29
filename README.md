@@ -21,3 +21,6 @@ The recipe API has a **daily request limit**, so data fetching may not work temp
 
 ## Run Locally
 Open `index.html` in your browser.
+
+[Live Demo](https://sharan-git-web.github.io/Recipe-Finder/)
+
